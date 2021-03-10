@@ -2,7 +2,7 @@ rm -rf /opt/ANDRAX/bin/fiesta
 
 export GOPATH=/home/andrax/go
 
-go get github.com/jselvi/fiesta/cmd/fiesta
+go get github.com/The-Cracker-Technology/fiesta/cmd/fiesta
 
 strip /home/mythical/go/bin/fiesta
 
