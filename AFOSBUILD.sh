@@ -4,11 +4,11 @@ export GOPATH=/home/andrax/go
 
 go get github.com/The-Cracker-Technology/fiesta/cmd/fiesta
 
-strip /home/mythical/go/bin/fiesta
+strip /home/andrax/go/bin/fiesta
 
-cp -Rf /home/mythical/go/bin/fiesta /opt/ANDRAX/bin/fiesta
+cp -Rf /home/andrax/go/bin/fiesta /opt/ANDRAX/bin/fiesta
 
 chmod -R 755 /opt/ANDRAX/bin/fiesta
 
-rm -rf /home/mythical/go
+rm -rf /home/andrax/go
 
